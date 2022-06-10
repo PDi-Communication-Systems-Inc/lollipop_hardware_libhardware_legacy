@@ -32,7 +32,8 @@
 // active output devices in isStreamActiveRemotely()
 #define APM_AUDIO_OUT_DEVICE_REMOTE_ALL  AUDIO_DEVICE_OUT_REMOTE_SUBMIX
 #define PRODUCT_DEVICE_PROPERTY "ro.product.device"
-#define PRODUCT_DEVICE_HDMIDONGLE     "hdmidongle"
+//#define PRODUCT_DEVICE_HDMIDONGLE     "hdmidongle"
+#define PRODUCT_DEVICE_HDMIDONGLE     "ar6mx"
 
 #include <inttypes.h>
 #include <math.h>
